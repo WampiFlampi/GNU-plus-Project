@@ -1,3 +1,3 @@
 # GNU-plus-Project
 
-final
+final project
