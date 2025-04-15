@@ -1,0 +1,1 @@
+Set the credentials temporarily for the current push comman://data.wprdc.org/dataset/allegheny-county-walk-scores
