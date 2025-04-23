@@ -31,6 +31,8 @@ The goal of this project is to proccess and combine datasets from the Western Pe
 2. [allegheny-county-walk-scores](https://data.wprdc.org/dataset/allegheny-county-walk-scores) (Walkability metric by neighborhood)
 3. [pghcensustracts](https://pitt.libguides.com/pghcensus/pghcensustracts) (Census tract data for Pittsburgh)
 4. [parks](https://data.wprdc.org/dataset/parks1) (Pittsburgh parks dataset)
+5. [montly criminal activity](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard) (Criminal Citations number)
+6. [total population](https://data.wprdc.org/dataset/pittsburgh-american-community-survey-2015-miscellaneous-data/resource/82f29015-6905-4b1c-8300-afe9bb2231b3)
 
 
 
