@@ -3,9 +3,14 @@
 ## Team Name
 GNU "slash" Team
 
-## Team Members
+## Team Members and Project Group
+#### Final Project Group 19
 * Dylan Berutti (dgb33@pitt.edu)
 * Thomas Hanson (trh134@pitt.edu)
+#### Contributions
+* *"notebooks/Crimerate.ipynb"* by Dylan Berutti
+* *"notebooks/Walkability.ipynb"* by Thomas Hanson
+
 
 ![](https://img.devrant.com/devrant/rant/r_862335_sZHfc.jpg)
 
